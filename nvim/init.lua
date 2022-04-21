@@ -1,8 +1,5 @@
 require('general')
 --require('keymappings')
---require('autocomplete')
---require('lsp.dart-lsp')
---require('lsp.flutter-lsp')
 require('plugins.luaPlugins')
 --require('plugins.nvimtree')
 --require('plugins.vimplug')
